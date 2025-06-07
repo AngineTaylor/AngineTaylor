@@ -20,8 +20,6 @@
 </p>
 <br />
 
-I'm an IT student who does not stand still — I'm actively studying new technologies, experimenting with code and developing as a system administrator. I'm interested in DevOps, process automation, and web development.
-
 <br /><br />
 
 ### 💻 My Skills 
