@@ -49,7 +49,7 @@ I'm an IT student who does not stand still - I'm actively studying new technolog
 </div>
 
 <br />
-
+---
 
 Constantly develop in the field of IT, deepen knowledge in DevOps and cloud technologies, participate in interesting projects and open-source development.
 
