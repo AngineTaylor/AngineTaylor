@@ -8,20 +8,23 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/AngineTaylor">    
+  <a href="https://github.com/AngineTaylor">       
     <img src="https://github-readme-stats.vercel.app/api?username=AngineTaylor&show_icons=true&theme=radical" />
   </a>
-  <br />
 </div>
 
+<!-- Divider -->
+<br />
+<p align="center">
+  <img src="https://media.tenor.com/m/2NnJLFiW7kcAAAAC/rainbow-divider-github.gif" width="300" />
+</p>
 <br />
 
+I'm an IT student who does not stand still — I'm actively studying new technologies, experimenting with code and developing as a system administrator. I'm interested in DevOps, process automation, and web development.
 
-I'm an IT student who does not stand still - I'm actively studying new technologies, experimenting with code and developing as a system administrator. I'm interested in DevOps, process automation, and web development.
+<br /><br />
 
----
-
-
+### 💻 My Skills 
 
 <div align="center">
 
@@ -37,7 +40,7 @@ I'm an IT student who does not stand still - I'm actively studying new technolog
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  alt="csharp" width="40" height="40" />
-      <br><b>C#</b>
+      <br><b>C#</b>  
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  alt="python" width="40" height="40" />
@@ -49,12 +52,20 @@ I'm an IT student who does not stand still - I'm actively studying new technolog
 </div>
 
 <br />
----
+
+<!-- Divider -->
+<hr style="border: none; border-top: 3px dashed #f96854; width: 50%; margin: auto;" />
+
+<br />
+
+### 🎯 My Goal
 
 Constantly develop in the field of IT, deepen knowledge in DevOps and cloud technologies, participate in interesting projects and open-source development.
 
+<br />
+
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">   
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngineTaylor&layout=compact&theme=radical" />
   </a>
 </div>
