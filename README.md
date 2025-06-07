@@ -52,3 +52,9 @@ I'm an IT student who does not stand still - I'm actively studying new technolog
 
 
 Constantly develop in the field of IT, deepen knowledge in DevOps and cloud technologies, participate in interesting projects and open-source development.
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngineTaylor&layout=compact&theme=radical" />
+  </a>
+</div>
