@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"  alt="Hi Animation" width="180"/>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif"  alt="Coding Animation" width="400"/>
 </p>
 
 <h1 align="center">Привет! 👋 Меня зовут <a href="https://daniilshat.ru"  target="_blank">AngineTaylor</a></h1>
@@ -8,7 +8,7 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/AngineTaylor"> 
+  <a href="https://github.com/AngineTaylor">    
     <img src="https://github-readme-stats.vercel.app/api?username=AngineTaylor&show_icons=true&theme=radical" />
   </a>
   <br />
@@ -19,7 +19,7 @@
 
 <br />
 
-## 🧠 О себе 
+## 🧠 О себе    
 
 Я студент IT-специальности, который не стоит на месте — активно изучаю новые технологии, экспериментирую с кодом и развиваюсь как системный администратор. Увлекаюсь DevOps, автоматизацией процессов и веб-разработкой.
 
