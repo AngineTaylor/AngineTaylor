@@ -8,7 +8,7 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/AngineTaylor">    
+  <a href="https://github.com/AngineTaylor"> 
     <img src="https://github-readme-stats.vercel.app/api?username=AngineTaylor&show_icons=true&theme=radical" />
   </a>
   <br />
@@ -19,52 +19,28 @@
 
 <br />
 
-<!-- About | Skills | Contacts in one row -->
+### 🧠 About Me 
+I'm an IT student who never stands still — actively learning new technologies, experimenting with code, and growing as a system administrator. Passionate about DevOps, automation, and web development.
+
+---
+
+### 💻 My Skills
+
 <div align="center">
-  <table width="100%" border="0" cellspacing="0" cellpadding="10">
-    <tr>
-      <!-- About -->
-      <td align="center" valign="top" width="33%">
-        <h2>🧠 About Me</h2>
-        <p style="max-width: 300px; margin: auto;">
-          I'm an IT student who never stands still — actively learning new technologies, experimenting with code, and growing as a system administrator. Passionate about DevOps, automation, and web development.
-        </p>
-      </td>
+  [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=dot-net&logoColor=white)](https://dotnet.microsoft.com/languages/csharp) 
+  [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+</div>
 
-      <!-- Skills -->
-      <td align="center" valign="top" width="33%">
-        <h2>💻 My Skills</h2>
-        <table align="center" cellpadding="8">
-          <tr>
-            <td align="center">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-              <br><small>HTML</small>
-            </td>
-            <td align="center">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-              <br><small>CSS</small>
-            </td>
-            <td align="center">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="CSharp" width="40" height="40" />
-              <br><small>C#</small> 
-            </td>
-            <td align="center">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  alt="Python" width="40" height="40" />
-              <br><small>Python</small>
-            </td>
-          </tr>
-        </table>
-      </td>
+---
 
-      <!-- Contacts -->
-      <td align="center" valign="top" width="33%">
-        <h2>🔗 Contacts</h2>
-        <ul style="list-style: none; padding: 0; margin: 0;">
-          <li>🌐 <a href="https://daniilshat.ru">Portfolio</a></li> 
-          <li>💼 <a href="#">LinkedIn</a> *(insert your link)*</li>
-          <li>📧 <a href="mailto:example@mail.com">example@mail.com</a> *(replace with your email)*</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+### 🔗 Contacts 
+
+<div align="center">
+  <ul>
+    <li>🌐 <a href="https://daniilshat.ru">Portfolio</a></li> 
+    <li>💼 <a href="#">LinkedIn</a> *(insert your link)*</li>
+    <li>📧 <a href="mailto:example@mail.com">example@mail.com</a> *(replace with your email)*</li>
+  </ul>
 </div>
