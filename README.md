@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWs4eGJ2ZWk0ZDk5dW1kOHcxeG9tczRqbzZ5dnpiZmN0OHFieTFtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DHAa1UQA95eWTZMOxQ/giphy.gif"  alt="Coding Animation" width="400"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWs4eGJ2ZWk0ZDk5dW1kOHcxeG9tczRqbzZ5dnpiZmN0OHFieTFtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DHAa1UQA95eWTZMOxQ/giphy.gif"  alt="Coding Animation" width="200"/>
 </p>
 
 <h1 align="center">Hi! 👋 My name <a href="https://daniilshat.ru"  target="_blank">AngineTaylor</a></h1>
