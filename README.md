@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif"  alt="Coding Animation" width="400"/>
 </p>
 
-<h1 align="center">Привет! 👋 Меня зовут <a href="https://daniilshat.ru"  target="_blank">AngineTaylor</a></h1>
-<h3 align="center">Студент IT-специальности, изучаю новые технологии. Активный системный администратор.</h3>
+<h1 align="center">Hi! 👋 My name <a href="https://daniilshat.ru"  target="_blank">AngineTaylor</a></h1>
+<h3 align="center">I'm an IT student, studying new technologies. Active System Administrator.</h3>
 
 <br />
 
@@ -19,9 +19,8 @@
 
 <br />
 
-## 🧠 О себе    
 
-Я студент IT-специальности, который не стоит на месте — активно изучаю новые технологии, экспериментирую с кодом и развиваюсь как системный администратор. Увлекаюсь DevOps, автоматизацией процессов и веб-разработкой.
+I'm an IT student who does not stand still - I'm actively studying new technologies, experimenting with code and developing as a system administrator. I'm interested in DevOps, process automation, and web development.
 
 ---
 
