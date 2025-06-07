@@ -19,47 +19,52 @@
 
 <br />
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <!-- About -->
-    <td valign="top" align="center" width="33%">
-      <h2>🧠 About Me</h2>
-      <p>I'm an IT student who never stands still — actively learning new technologies, experimenting with code, and growing as a system administrator. Passionate about DevOps, automation, and web development.</p>
-    </td>
+<!-- About | Skills | Contacts in one row -->
+<div align="center">
+  <table width="100%" border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <!-- About -->
+      <td align="center" valign="top" width="33%">
+        <h2>🧠 About Me</h2>
+        <p style="max-width: 300px; margin: auto;">
+          I'm an IT student who never stands still — actively learning new technologies, experimenting with code, and growing as a system administrator. Passionate about DevOps, automation, and web development.
+        </p>
+      </td>
 
-    <!-- Skills -->
-    <td valign="top" align="center" width="33%">
-      <h2>💻 My Skills</h2>
-      <table align="center">
-        <tr>
-          <td align="center" width="60">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-            <br><small>HTML</small>
-          </td>
-          <td align="center" width="60">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-            <br><small>CSS</small>
-          </td>
-          <td align="center" width="60">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="CSharp" width="40" height="40" />
-            <br><small>C#</small> 
-          </td>
-          <td align="center" width="60">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  alt="Python" width="40" height="40" />
-            <br><small>Python</small>
-          </td>
-        </tr>
-      </table>
-    </td>
+      <!-- Skills -->
+      <td align="center" valign="top" width="33%">
+        <h2>💻 My Skills</h2>
+        <table align="center" cellpadding="8">
+          <tr>
+            <td align="center">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+              <br><small>HTML</small>
+            </td>
+            <td align="center">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+              <br><small>CSS</small>
+            </td>
+            <td align="center">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="CSharp" width="40" height="40" />
+              <br><small>C#</small> 
+            </td>
+            <td align="center">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  alt="Python" width="40" height="40" />
+              <br><small>Python</small>
+            </td>
+          </tr>
+        </table>
+      </td>
 
-    <!-- Contacts -->
-    <td valign="top" align="center" width="33%">
-      <h2>🔗 Contacts</h2>
-      <ul>
-        <li>🌐 <a href="https://daniilshat.ru">Portfolio</a></li> 
-        <li>💼 <a href="#">LinkedIn</a> *(insert your link)*</li>
-        <li>📧 example@mail.com *(replace with your email)*</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+      <!-- Contacts -->
+      <td align="center" valign="top" width="33%">
+        <h2>🔗 Contacts</h2>
+        <ul style="list-style: none; padding: 0; margin: 0;">
+          <li>🌐 <a href="https://daniilshat.ru">Portfolio</a></li> 
+          <li>💼 <a href="#">LinkedIn</a> *(insert your link)*</li>
+          <li>📧 <a href="mailto:example@mail.com">example@mail.com</a> *(replace with your email)*</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
