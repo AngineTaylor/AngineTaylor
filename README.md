@@ -19,9 +19,7 @@
   <img src="https://media.tenor.com/m/2NnJLFiW7kcAAAAC/rainbow-divider-github.gif" width="300" />
 </p>
 <br />
-</div>
 
-<br />
 ### 💻 My Skills 
 
 <div align="center">
