@@ -53,16 +53,5 @@ I'm an IT student who does not stand still - I'm actively studying new technolog
 
 <br />
 
-## 🔗 Мои контакты
 
-| Платформа | Ссылка |
-|----------|--------|
-| 🌐 Сайт | -  |
-| 💼 LinkedIn | - |
-| 📧 Email | - |
-
----
-
-## 🎯 Цель
-
-Постоянно развиваться в сфере IT, углубить знания в DevOps и облачных технологиях, участвовать в интересных проектах и open-source разработке.
+Constantly develop in the field of IT, deepen knowledge in DevOps and cloud technologies, participate in interesting projects and open-source development.
