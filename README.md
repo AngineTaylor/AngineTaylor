@@ -1,57 +1,103 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer Animation" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWs4eGJ2ZWk0ZDk5dW1kOHcxeG9tczRqbzZ5dnpiZmN0OHFieTFtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DHAa1UQA95eWTZMOxQ/giphy.gif" alt="Coding Animation" width="200"/>
 </p>
 
-<h1 align="center"> 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;I'm+AngineTaylor;IT+Student+%26+SysAdmin;Cloud+Enthusiast" alt="Typing SVG" />
-  </a>
-</h1>
+<h1 align="center">Hi! 👋 I'm AngineTaylor</h1>
+<h3 align="center">IT Student | System Administrator | Python Developer</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
-<!-- GitHub Stats with Neon Border -->
+<br/>
+
+<!-- GitHub Stats -->
 <div align="center">
   <a href="https://github.com/AngineTaylor">
-    <img src="https://github-readme-stats.vercel.app/api?username=AngineTaylor&show_icons=true&count_private=true&theme=dark&bg_color=30,0d1117,0a2e38&title_color=00D4FF&icon_color=00D4FF&border_radius=15&border_color=00D4FF" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngineTaylor&theme=dark&background=0d1117&border=00D4FF&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=ffffff&dates=ffffff" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AngineTaylor&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=00000000" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngineTaylor&theme=default&background=00000000&hide_border=true" />
   </a>
 </div>
 
-<!-- Animated Divider -->
+<!-- Divider -->
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/AngineTaylor/AngineTaylor/main/assets/divider.png" width="80%"/>
 </p>
 
-<!-- 3D Tech Stack -->
-<h2 align="center">🚀 Tech Stack 🚀</h2>
+<!-- Tech Stack -->
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,docker,kubernetes,azure,aws,gcp,linux,bash,git,github,ansible,terraform,html,css,vscode&theme=dark&perline=9" alt="Tech Stack"/>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+        <br>C#
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+        <br>Linux
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+        <br>Bash
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible" />
+        <br>Ansible
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="48" height="48" alt="Prometheus" />
+        <br>Prometheus
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Animated Coding Activity -->
-<h2 align="center">💻 Coding Activity 💻</h2>
+<br/>
+
+<!-- Projects -->
+<h2 align="center">🔨 Recent Projects</h2>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120"/>
-  <a href="https://wakatime.com/@AngineTaylor">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AngineTaylor&theme=dark&bg_color=30,0d1117,0a2e38&title_color=00D4FF&border_color=00D4FF&border_radius=15&layout=compact" />
+  <a href="https://github.com/AngineTaylor/Network-Scanner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngineTaylor&repo=Network-Scanner&theme=default&hide_border=true&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/AngineTaylor/System-Monitoring-Tool">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngineTaylor&repo=System-Monitoring-Tool&theme=default&hide_border=true&bg_color=00000000" />
   </a>
 </div>
 
-<!-- 3D Language Stats -->
-<h2 align="center">📊 Top Languages 📊</h2>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngineTaylor&layout=compact&theme=dark&bg_color=30,0d1117,0a2e38&title_color=00D4FF&border_radius=15&border_color=00D4FF" />
-  </a>
-</div>
+<!-- Divider -->
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AngineTaylor/AngineTaylor/main/assets/divider.png" width="80%"/>
+</p>
 
-<!-- Animated Footer -->
+<!-- Activity -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AngineTaylor&label=Profile+Views&color=00D4FF&style=flat" alt="Profile views"/> 
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="20" width="auto"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngineTaylor&theme=github-light&hide_border=true&bg_color=ffffff00" width="90%"/>
 </div>
