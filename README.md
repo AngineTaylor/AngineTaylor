@@ -40,22 +40,22 @@
   <img src="https://skillicons.dev/icons?i=python,cs,docker,linux,bash,git,azure,ansible,prometheus,grafana&theme=dark&perline=5" />
 </div>
 
-<!-- Projects -->
-<h2 align="center">🔨 Featured Projects</h2>
-
+<!-- Top Languages -->
+<h2 align="center">🔝 Top Languages</h2>
 <div align="center">
-  <a href="https://github.com/AngineTaylor/Network-Scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngineTaylor&repo=Network-Scanner&theme=radical" />
-  </a>
-  <a href="https://github.com/AngineTaylor/System-Monitoring-Tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngineTaylor&repo=System-Monitoring-Tool&theme=radical" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngineTaylor&layout=compact&theme=radical&bg_color=30,0d1117,161b22&title_color=ff6d00" />
 </div>
 
-<!-- Activity -->
+<!-- Activity Graph -->
 <h2 align="center">📈 Coding Activity</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngineTaylor&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=ff6d00" width="90%"/>
+</div>
+
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Achievements</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AngineTaylor&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" />
 </div>
 
 <!-- Footer -->
