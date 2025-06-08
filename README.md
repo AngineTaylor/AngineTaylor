@@ -1,66 +1,57 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs7ISCTQRnSrcHHq/giphy.gif" alt="Trippy RGB Animation" width="300"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer Animation" width="300"/>
 </p>
 
 <h1 align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;I'm+AngineTaylor;IT+Student+%26+SysAdmin;DevOps+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;I'm+AngineTaylor;IT+Student+%26+SysAdmin;Cloud+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://t.me/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>
 </div>
 
-<br/>
-
-<!-- GitHub Stats with Glitch Effect -->
+<!-- GitHub Stats with Neon Border -->
 <div align="center">
   <a href="https://github.com/AngineTaylor">
-    <img src="https://github-readme-stats.vercel.app/api?username=AngineTaylor&show_icons=true&count_private=true&theme=radical&bg_color=30,000000,130F40&title_color=00FF88&icon_color=00FF88&border_radius=15&border_color=00FF88" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngineTaylor&theme=radical&background=000000&border=00FF88&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF88&sideLabels=ffffff&dates=ffffff" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AngineTaylor&show_icons=true&count_private=true&theme=dark&bg_color=30,0d1117,0a2e38&title_color=00D4FF&icon_color=00D4FF&border_radius=15&border_color=00D4FF" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngineTaylor&theme=dark&background=0d1117&border=00D4FF&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=ffffff&dates=ffffff" />
   </a>
 </div>
 
-<!-- RGB Divider -->
+<!-- Animated Divider -->
 <br/>
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs7ISCTQRnSrcHHq/giphy.gif" width="100%" height="8"/>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" width="100%"/>
 </p>
 
-<!-- Tech Stack with Neon Style -->
-<h2 align="center">⚡ Tech Stack ⚡</h2>
+<!-- 3D Tech Stack -->
+<h2 align="center">🚀 Tech Stack 🚀</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,docker,linux,bash,git,azure,ansible,github,html,css,vscode&theme=dark&perline=6" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,docker,kubernetes,azure,aws,gcp,linux,bash,git,github,ansible,terraform,html,css,vscode&theme=dark&perline=9" alt="Tech Stack"/>
 </div>
 
-<!-- Most Used Languages -->
-<h2 align="center">🔥 Top Languages 🔥</h2>
+<!-- Animated Coding Activity -->
+<h2 align="center">💻 Coding Activity 💻</h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120"/>
+  <a href="https://wakatime.com/@AngineTaylor">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AngineTaylor&theme=dark&bg_color=30,0d1117,0a2e38&title_color=00D4FF&border_color=00D4FF&border_radius=15&layout=compact" />
+  </a>
+</div>
+
+<!-- 3D Language Stats -->
+<h2 align="center">📊 Top Languages 📊</h2>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngineTaylor&layout=compact&theme=radical&bg_color=30,000000,130F40&title_color=00FF88&border_radius=15&border_color=00FF88" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngineTaylor&layout=compact&theme=dark&bg_color=30,0d1117,0a2e38&title_color=00D4FF&border_radius=15&border_color=00D4FF" />
   </a>
 </div>
 
-<!-- RGB Quote -->
-<h2 align="center">💬 Developer Mantra 💬</h2>
+<!-- Animated Footer -->
 <div align="center">
-  <a href="https://github.com/PiyushSuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in" alt="Dev Quote" />
-  </a>
-</div>
-
-<!-- Profile Footer -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AngineTaylor&label=Profile+Views&color=00FF88&style=flat" alt="Profile views"/> 
-  <img src="https://media.giphy.com/media/3ohs7ISCTQRnSrcHHq/giphy.gif" height="20" width="auto"/>
+  <img src="https://komarev.com/ghpvc/?username=AngineTaylor&label=Profile+Views&color=00D4FF&style=flat" alt="Profile views"/> 
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="20" width="auto"/>
 </div>
